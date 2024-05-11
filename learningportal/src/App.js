@@ -1,6 +1,6 @@
 import React from 'react';
 import { Navbar, Nav, Container, Card, Button } from 'react-bootstrap';
-import './App.css'; // Make sure to adjust the path to your CSS file
+import './App.css'; 
 
 function App() {
   return (
